@@ -1,0 +1,7 @@
+[package]
+name = "irc-client"
+version = "0.1.0"
+authors = ["Alex <ac.webster1990@gmail.com>"]
+
+[dependencies]
+ncurses = "5.98.0"
